@@ -43,11 +43,24 @@ Argument 2 = 5 ; Resultat : 10
 Créer une fonction from scratch qui s'appelle soustraction(). Elle prendra deux arguments de type int. Elle devra retourner la soustraction des deux. Exemple :
 argument 1 = 5
 Argument 2 = 5 ; Resultat : 0
-@[Exercice 7, Somme ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh soustractionTest.php"})
+@[Exercice 7, soustraction ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh soustractionTest.php"})
 
 # Exercice 8
 
 Créer une fonction from scratch qui s'appelle multiplication(). Elle prendra deux arguments de type int. Elle devra retourner la multiplication des deux. Exemple :
 argument 1 = 5
 Argument 2 = 5 ; Resultat : 25
-@[Exercice 8, Somme ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh multiplicationTest.php"})
+@[Exercice 8, multiplication ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh multiplicationTest.php"})
+
+# Exercice 9
+
+Créer une fonction from scratch qui s'appelle estIlMajeure(). Elle prendra un argument de type int. Elle devra retourner un boolean. Si age >= 18 elle doit retourner true si age < 18 elle doit retourner false Exemple :
+age = 5 ==> false
+age = 34 ==> true
+@[Exercice 9, majeur ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh isAdultTest.php"})
+
+# Exercice 10
+
+Créer une fonction from scratch qui s'appelle plusGrand(). Elle prendra deux arguments de type int. Elle devra retourner le plus grand des deux.
+
+@[Exercice 9, Plus Grand ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh greaterTest.php"})
