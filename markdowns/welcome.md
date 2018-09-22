@@ -18,7 +18,7 @@ Créer une fonction from scratch qui s'appelle quiEstLeMeilleurProf(). Elle doit
 # Exercice 3
 
 Créer une fonction from scratch qui s'appelle jeRetourneMonArgument(). Elle doit retourner "Le prof de programmation Web"
-@[Exercice 2, Qui est le meilleur prof ? ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh jeRetourneMonArgumentTest.php"})
+@[Exercice 3, Retourne ton argument ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh jeRetourneMonArgumentTest.php"})
 
 # Template Resources
 
