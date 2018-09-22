@@ -23,7 +23,7 @@ Créer une fonction from scratch qui s'appelle jeRetourneMonArgument(). Elle doi
 # Exercice 4
 
 Créer une fonction from scratch qui s'appelle concatenation(). Elle prendra deux arguments de type string. Elle devra retourner la concatenation des deux. Exemple : argument 1 = Antoine Argument 2 = Griezmann; Resultat : AntoineGriezmann
-@[Exercice 3, Retourne ton argument ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh concatenationTest.php"})
+@[Exercice 4, Concatenation ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh concatenationTest.php"})
 
 # Template Resources
 

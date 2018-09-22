@@ -1,5 +1,5 @@
 <?php
-    include 'returnArgument.php';
+    include 'empty.php';
     function test() {
         if (concatenation("abc", "def") === "abcdef" && concatenation("nicolas", "sarkozy") === "nicolassarkozy") {
             echo("TECHIO> success true \r\n");
