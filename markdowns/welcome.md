@@ -1,15 +1,14 @@
 # Welcome!
 
-This PHP template lets you get started quickly with a simple working example in PHP. If this is your first contribution, you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) guide.
+Merci de faire les exercices dans l'ordre.
 
 
-The source code is on [GitHub](https://github.com/TechDotIO/php-template), please feel free to come up with proposals to improve it.
 
-# Hands-on Demo
 
-@[Luke, how many stars there are in these galaxies?]({"stubs": ["Universe.php"], "command": "/bin/bash run.sh"})
+# Exercice 1
 
-Check out the markdown file [`welcome.md`]() to see how this exercise is injected into the template.
+@[Luke, Fonction qui retourne Hello World! ]({"stubs": ["helloWorld.php"], "command": "/bin/bash run.sh helloWorldTest.php"})
+
 
 # Template Resources
 
