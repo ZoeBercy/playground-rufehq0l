@@ -7,6 +7,7 @@ Merci de faire les exercices dans l'ordre.
 
 # Exercice 1
 
+Faite en sorte que la fonction HelloWorld retourne exactement la valeur "Hello World!"
 @[Luke, Fonction qui retourne Hello World! ]({"stubs": ["helloWorld.php"], "command": "/bin/bash run.sh helloWorldTest.php"})
 
 
