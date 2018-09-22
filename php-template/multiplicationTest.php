@@ -1,7 +1,7 @@
 <?php
     include 'empty.php';
     function test() {
-        if (concatenationAvecEspace("abc", "def") === "abc def" && concatenationAvecEspace("nicolas", "sarkozy") === "nicolas sarkozy") {
+        if (multiplication(1, 1) === 1 && multiplication(10, 10) === 100) {
             echo("TECHIO> success true \r\n");
         }
         else {

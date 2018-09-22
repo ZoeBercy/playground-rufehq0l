@@ -1,7 +1,7 @@
 <?php
     include 'empty.php';
     function test() {
-        if (concatenationAvecEspace("abc", "def") === "abc def" && concatenationAvecEspace("nicolas", "sarkozy") === "nicolas sarkozy") {
+        if (soustraction(1, 1) === 0 && soustraction(9, 3) === 6 && soustraction(3, 9) === -6) {
             echo("TECHIO> success true \r\n");
         }
         else {
