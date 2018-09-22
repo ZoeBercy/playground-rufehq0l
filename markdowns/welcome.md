@@ -17,13 +17,20 @@ Créer une fonction from scratch qui s'appelle quiEstLeMeilleurProf(). Elle doit
 
 # Exercice 3
 
-Créer une fonction from scratch qui s'appelle jeRetourneMonArgument(). Elle doit retourner "Le prof de programmation Web"
+Créer une fonction from scratch qui s'appelle jeRetourneMonArgument().
+Exemple : Arg = "abc" ==> Return "abc"
+Arg = 123 ==> Return 123
 @[Exercice 3, Retourne ton argument ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh returnArgumentTest.php"})
 
 # Exercice 4
 
 Créer une fonction from scratch qui s'appelle concatenation(). Elle prendra deux arguments de type string. Elle devra retourner la concatenation des deux. Exemple : argument 1 = Antoine Argument 2 = Griezmann; Resultat : AntoineGriezmann
 @[Exercice 4, Concatenation ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh concatenationTest.php"})
+
+# Exercice 5
+
+Créer une fonction from scratch qui s'appelle concatenationAvecEspace(). Elle prendra deux arguments de type string. Elle devra retourner la concatenation des deux. Exemple : argument 1 = Ngolo Argument 2 = Kante; Resultat : Ngolo Kante
+@[Exercice 5, Concatenation avec espace ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh concatenationWithSpaceTest.php"})
 
 # Template Resources
 
