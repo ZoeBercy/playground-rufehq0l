@@ -13,7 +13,7 @@ Faite en sorte que la fonction HelloWorld retourne exactement la valeur "Hello W
 # Exercice 2
 
 Créer une fonction from scratch qui s'appelle qui est le meilleur prof. Elle doit retourner "Le prof de programmation Web"
-@[Exercice 2, Qui est le meilleur prof ? ]({"stubs": ["bestProf.php"], "command": "/bin/bash run.sh bestProfTest.php"})
+@[Exercice 2, Qui est le meilleur prof ? ]({"stubs": ["bestTeacher.php"], "command": "/bin/bash run.sh bestTeacherTest.php"})
 
 # Template Resources
 
