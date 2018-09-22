@@ -12,8 +12,13 @@ Faite en sorte que la fonction HelloWorld retourne exactement la valeur "Hello W
 
 # Exercice 2
 
-Créer une fonction from scratch qui s'appelle qui est le meilleur prof. Elle doit retourner "Le prof de programmation Web"
+Créer une fonction from scratch qui s'appelle quiEstLeMeilleurProf(). Elle doit retourner "Le prof de programmation Web"
 @[Exercice 2, Qui est le meilleur prof ? ]({"stubs": ["bestTeacher.php"], "command": "/bin/bash run.sh bestTeacherTest.php"})
+
+# Exercice 3
+
+Créer une fonction from scratch qui s'appelle jeRetourneMonArgument(). Elle doit retourner "Le prof de programmation Web"
+@[Exercice 2, Qui est le meilleur prof ? ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh jeRetourneMonArgumentTest.php"})
 
 # Template Resources
 
@@ -32,4 +37,3 @@ This *mandatory* file describes both the table of contents and the programming p
 # Visual and Interactive Content
 
 Tech.io provides all the tools to embed visual and interactive content like a Web app or a Unix terminal. Please refer to the [documentation](https://tech.io/doc) to learn more about the viewer integrations.
-
