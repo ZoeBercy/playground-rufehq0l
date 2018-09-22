@@ -1,7 +1,7 @@
 <?php
     include 'empty.php';
     function test() {
-        if (concatenation("abc", "def") === "abc def" && concatenation("nicolas", "sarkozy") === "nicolas sarkozy") {
+        if (concatenationWithSpace("abc", "def") === "abc def" && concatenationWithSpace("nicolas", "sarkozy") === "nicolas sarkozy") {
             echo("TECHIO> success true \r\n");
         }
         else {

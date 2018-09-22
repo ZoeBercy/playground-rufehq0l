@@ -32,6 +32,12 @@ Créer une fonction from scratch qui s'appelle concatenation(). Elle prendra deu
 Créer une fonction from scratch qui s'appelle concatenationAvecEspace(). Elle prendra deux arguments de type string. Elle devra retourner la concatenation des deux. Exemple : argument 1 = Ngolo Argument 2 = Kante; Resultat : Ngolo Kante
 @[Exercice 5, Concatenation avec espace ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh concatenationWithSpaceTest.php"})
 
+# Exercice 6
+
+Créer une fonction from scratch qui s'appelle somme(). Elle prendra deux arguments de type int. Elle devra retourner la somme des deux. Exemple : argument 1 = 5
+Argument 2 = 5 ; Resultat : 10
+@[Exercice 6, Somme ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh sumTest.php"})
+
 # Template Resources
 
 [`markdowns/welcome.md`](https://github.com/TechDotIO/php-template/blob/master/markdowns/welcome.md)  
