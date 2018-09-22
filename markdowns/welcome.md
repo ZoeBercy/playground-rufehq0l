@@ -8,12 +8,12 @@ Merci de faire les exercices dans l'ordre.
 # Exercice 1
 
 Faite en sorte que la fonction HelloWorld retourne exactement la valeur "Hello World!"
-@[Luke, Fonction qui retourne Hello World! ]({"stubs": ["helloWorld.php"], "command": "/bin/bash run.sh helloWorldTest.php"})
+@[Exercice 1, Fonction qui retourne Hello World! ]({"stubs": ["helloWorld.php"], "command": "/bin/bash run.sh helloWorldTest.php"})
 
 # Exercice 2
 
 Créer une fonction from scratch qui s'appelle qui est le meilleur prof. Elle doit retourner "Le prof de programmation Web"
-@[Luke, Fonction qui retourne Hello World! ]({"stubs": ["helloWorld.php"], "command": "/bin/bash run.sh helloWorldTest.php"})
+@[Exercice 2, Qui est le meilleur prof ? ]({"stubs": ["bestProf.php"], "command": "/bin/bash run.sh bestProfTest.php"})
 
 # Template Resources
 
