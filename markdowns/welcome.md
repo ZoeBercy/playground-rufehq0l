@@ -112,3 +112,12 @@ Si l'array est vide, il faudra retourner null;
 Créer une fonction from scratch qui s'appelle **verificationPassword()**. Elle prendra un argument de type string. Elle devra retourner un boolean qui vaut `true` si le password fait au moins 8 caractères et `false` si moins.
 
 @[Exercice 17, Mot de passe trop court ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh passwordTooShortTest.php"})
+
+# Exercice 18
+
+Créer une fonction from scratch qui s'appelle **verificationPassword()**. Elle prendra un argument de type string. Elle devra retourner un boolean qui vaut `true` si le password respecte les règles suivantes :
+1- Faire au moins 8 caractères
+2- Avoir au moins 1 chiffre
+3- Avoir au moins une majuscule et une minuscule
+
+@[Exercice 18, Mot de passe secure ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh passwordSecureTest.php"})
