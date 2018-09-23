@@ -160,3 +160,12 @@ Si le titre est null et vide il faut que la fonction retourne null.
 Si l'array est vide, il faut que la fonction retourne null.
 
 @[Exercice 20, Liste ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh listHTMLTest.php"})
+
+# Exercice 21
+
+Créer une fonction from scratch qui s'appelle **remplacerLesLettres()**. Elle prendra un argument de type string. Elle devra retourner cette même string mais en remplacant les e par des 3, les i par des 1 et les o par des 0
+Exemple :
+1. input : "Bonjour les amis" ==> Output : `B0nj0ur l3s am1s`
+1. input : "Les cours de programmation Web sont trops cools" ==> Output : `L3s c0urs d3 pr0grammat10n W3b s0nt tr0ps c00ls`
+
+@[Exercice 21, remplacer lettres ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh replaceLettersTest.php"})
