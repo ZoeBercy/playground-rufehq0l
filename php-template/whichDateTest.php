@@ -2,7 +2,7 @@
     include 'empty.php';
     function test() {
 
-        if (quelleDate() === date('d')."/".(date("m")-1)."/".date('Y')) {
+        if (quelleDate() === date('d')."/".date("m")."/".date('Y')) {
             echo("TECHIO> success true \r\n");
         }
         else {
