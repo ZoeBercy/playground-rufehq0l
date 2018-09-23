@@ -159,4 +159,4 @@ Pas d'espace non plus entre le titre et la liste.
 Si le titre est null et vide il faut que la fonction retourne null.
 Si l'array est vide, il faut que la fonction retourne null.
 
-@[Exercice 20, Liste ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh listTest.php"})
+@[Exercice 20, Liste ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh listHTMLTest.php"})
