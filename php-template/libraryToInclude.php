@@ -4,12 +4,14 @@
     }
 
     function getAllUtilisateurs(){
-      return json_decode([{
-        name : "Nicolas Sarkozy",
-        age: 55,
-        blocked: false,
-        email : "nicolasdu92@gmail.com"
-        },{
+      return json_decode([
+        {
+          name : "Nicolas Sarkozy",
+          age: 55,
+          blocked: false,
+          email : "nicolasdu92@gmail.com"
+        },
+        {
           name : "Francois Hollande",
           age: 50,
           blocked: false,
