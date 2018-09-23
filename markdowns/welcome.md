@@ -98,7 +98,7 @@ Si l'array est vide, il faudra retourner `null`;
 Créer une fonction from scratch qui s'appelle **plusGrand()**. Elle prendra un argument de type array. Elle devra retourner le plus grand des élements présent dans l'array.
 Si l'array est vide, il faudra retourner null;
 
-@[Exercice 15, Plus petit dans un array ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh greaterInArrayTest.php"})
+@[Exercice 15, Plus grand dans un array ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh greaterInArrayTest.php"})
 
 # Exercice 16
 
@@ -106,3 +106,9 @@ Créer une fonction from scratch qui s'appelle **plusPetit()**. Elle prendra un 
 Si l'array est vide, il faudra retourner null;
 
 @[Exercice 16, Plus petit dans un array ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh smallerInArrayTest.php"})
+
+# Exercice 17
+
+Créer une fonction from scratch qui s'appelle **verificationPassword()**. Elle prendra un argument de type string. Elle devra retourner un boolean qui vaut `true` si le password fait au moins 8 caractères et `false` si moins.
+
+@[Exercice 17, Mot de passe trop court ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh passwordTooShortTest.php"})

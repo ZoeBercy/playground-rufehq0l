@@ -1,7 +1,7 @@
 <?php
     include 'empty.php';
     function test() {
-        if (somme(1, 1) === 2 && somme(-10, 10) === 0) {
+        if (verificationPassword("") === false && verificationPassword("abcdefgh") === true && verificationPassword("abcdefghxxxxx") === true && verificationPassword("axxx") === false) {
             echo("TECHIO> success true \r\n");
         }
         else {
