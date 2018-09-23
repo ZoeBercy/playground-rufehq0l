@@ -169,3 +169,15 @@ Exemple :
 1. input : "Les cours de programmation Web sont trops cools" ==> Output : `L3s c0urs d3 pr0grammat10n W3b s0nt tr0ps c00ls`
 
 @[Exercice 21, remplacer lettres ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh replaceLettersTest.php"})
+
+# Exercice 22
+
+Créer une fonction from scratch qui s'appelle **quelleAnnee()**. Elle devra retourner un integer representant l'année actuelle.
+
+# Exercice 23
+
+Créer une fonction from scratch qui s'appelle **quelleDate()**. Elle devra retourner une string representant la date actuelle sous le format suivant `DD/MM/YYYY`
+
+Où *DD* représente le jour actuelle, *MM* le mois actuel et *YYYY* l'année actuelle.
+
+@[Exercice 23, Quelle date ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh whichDateTest.php"})
