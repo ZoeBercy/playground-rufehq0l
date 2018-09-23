@@ -12,12 +12,12 @@
             echo("TECHIO> success true \r\n");
         }
         else {
-          echo("TECHIO>value : " . listHTML("Capital",["Paris", "Berlin", "Moscou"]) === "<h3>Capitale</h3><ul><li>Paris</li><li>Berlin</li><li>Moscou</li></ul>");
-          echo("TECHIO> value : " . listHTML("Burger",["BigMac", "Fish", "Beacon"]) === "<h3>Burger</h3><ul><li>BigMac</li><li>Fish</li><li>Beacon</li></ul>");
-          echo("TECHIO> value : " . listHTML("Burger",["BigMac"]) === "<h3>Burger</h3><ul><li>BigMac</li></ul>");
-          echo("TECHIO> value : " . listHTML("",["BigMac"]) === null);
-          echo("TECHIO> value : " . listHTML(null,["BigMac"]) === null);
-          echo("TECHIO> value : " . listHTML("truc",[]) === null);
+          echo("TECHIO> message --channel value : " . listHTML("Capital",["Paris", "Berlin", "Moscou"]) === "<h3>Capitale</h3><ul><li>Paris</li><li>Berlin</li><li>Moscou</li></ul>");
+          echo("TECHIO> message --channel value : " . listHTML("Burger",["BigMac", "Fish", "Beacon"]) === "<h3>Burger</h3><ul><li>BigMac</li><li>Fish</li><li>Beacon</li></ul>");
+          echo("TECHIO> message --channel value : " . listHTML("Burger",["BigMac"]) === "<h3>Burger</h3><ul><li>BigMac</li></ul>");
+          echo("TECHIO> message --channel value : " . listHTML("",["BigMac"]) === null);
+          echo("TECHIO> message --channel value : " . listHTML(null,["BigMac"]) === null);
+          echo("TECHIO> message --channel value : " . listHTML("truc",[]) === null);
             echo("TECHIO> success false  \r\n");
 
             echo("TECHIO> message --channel Oops! Try Again 🐞 \r\n");
