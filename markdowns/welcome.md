@@ -174,6 +174,8 @@ Exemple :
 
 Créer une fonction from scratch qui s'appelle **quelleAnnee()**. Elle devra retourner un integer representant l'année actuelle.
 
+@[Exercice 23, Quelle date ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh whichYearTest.php"})
+
 # Exercice 23
 
 Créer une fonction from scratch qui s'appelle **quelleDate()**. Elle devra retourner une string representant la date actuelle sous le format suivant `DD/MM/YYYY`
