@@ -116,8 +116,8 @@ Créer une fonction from scratch qui s'appelle **verificationPassword()**. Elle 
 # Exercice 18
 
 Créer une fonction from scratch qui s'appelle **verificationPassword()**. Elle prendra un argument de type string. Elle devra retourner un boolean qui vaut `true` si le password respecte les règles suivantes :
-1- Faire au moins 8 caractères
-2- Avoir au moins 1 chiffre
-3- Avoir au moins une majuscule et une minuscule
+1. Faire au moins 8 caractères
+2. Avoir au moins 1 chiffre
+3. Avoir au moins une majuscule et une minuscule
 
 @[Exercice 18, Mot de passe secure ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh passwordSecureTest.php"})
