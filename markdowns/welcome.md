@@ -181,5 +181,13 @@ Créer une fonction from scratch qui s'appelle **quelleAnnee()**. Elle devra ret
 Créer une fonction from scratch qui s'appelle **quelleDate()**. Elle devra retourner une string representant la date actuelle sous le format suivant `DD/MM/YYYY`
 
 Où *DD* représente le jour actuelle, *MM* le mois actuel et *YYYY* l'année actuelle.
+Les valeurs doivent être numérique et non au format String.
 
 @[Exercice 23, Quelle date ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh whichDateTest.php"})
+
+# Exercice 23
+
+Aucune fonction a créer. Il suffit simplement d'inclure une librairie.
+Il faut intégrer la librairie `./libraryToInclude.php`
+
+@[Exercice 23, Quelle date ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh includeTest.php"})
