@@ -65,3 +65,15 @@ age = 34 ==> `true`
 Créer une fonction from scratch qui s'appelle **plusGrand()**. Elle prendra deux arguments de type int. Elle devra retourner le plus grand des deux.
 
 @[Exercice 10, Plus Grand ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh greaterTest.php"})
+
+# Exercice 11
+
+Créer une fonction from scratch qui s'appelle **plusPetit()**. Elle prendra deux arguments de type int. Elle devra retourner le plus petit des deux.
+
+@[Exercice 11, Plus petit ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh smallerTest.php"})
+
+# Exercice 12
+
+Créer une fonction from scratch qui s'appelle **plusPetit()**. Elle prendra trois arguments de type int. Elle devra retourner le plus petit des trois.
+
+@[Exercice 13, Plus petit des trois ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh smallerWith3ArgumentsTest.php"})
