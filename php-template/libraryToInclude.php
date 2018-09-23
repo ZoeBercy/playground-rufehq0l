@@ -4,7 +4,7 @@
     }
 
     function getAllUtilisateurs(){
-      return json_decode([
+      return json_decode('[
         {
           name : "Nicolas Sarkozy",
           age: 55,
@@ -35,6 +35,6 @@
           blocked: false,
           email : "youyou@gmail.com"
         }
-      ]);
+      ]');
     }
 ?>
