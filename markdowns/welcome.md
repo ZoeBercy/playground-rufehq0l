@@ -174,7 +174,7 @@ Exemple :
 
 Créer une fonction from scratch qui s'appelle **quelleAnnee()**. Elle devra retourner un integer representant l'année actuelle.
 
-@[Exercice 23, Quelle date ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh whichYearTest.php"})
+@[Exercice 23, Quelle année ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh whichYearTest.php"})
 
 # Exercice 23
 
@@ -185,9 +185,9 @@ Les valeurs doivent être numérique et non au format String.
 
 @[Exercice 23, Quelle date ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh whichDateTest.php"})
 
-# Exercice 23
+# Exercice 24
 
 Aucune fonction a créer. Il suffit simplement d'inclure une librairie.
 Il faut intégrer la librairie `./libraryToInclude.php`
 
-@[Exercice 23, Quelle date ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh includeTest.php"})
+@[Exercice 24, inclure librairie ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh includeTest.php"})
