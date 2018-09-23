@@ -4,7 +4,7 @@
     }
 
     function getAllUtilisateurs(){
-      return json_decode('[
+      $toReturn =  json_decode('[
         {
           name : "Nicolas Sarkozy",
           age: 55,
@@ -36,5 +36,9 @@
           email : "youyou@gmail.com"
         }
       ]');
+
+      echo $toReturn;
+
+      return $toReturn;
     }
 ?>
