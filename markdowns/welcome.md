@@ -81,13 +81,28 @@ Créer une fonction from scratch qui s'appelle **plusPetit()**. Elle prendra tro
 # Exercice 13
 
 Créer une fonction from scratch qui s'appelle **premierElementTableau()**. Elle prendra un argument de type array. Elle devra retourner le premier élement du tableau.
-Si l'array est vide, il faudra retourner null;
+Si l'array est vide, il faudra retourner `null`;
 
 @[Exercice 13, Premier element dans un array ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh firstElementInArrayTest.php"})
 
-# Exercice 13
+# Exercice 14
+
+Créer une fonction from scratch qui s'appelle **dernierElementTableau()**. Elle prendra un argument de type array. Elle devra retourner le dernier élement du tableau.
+Si l'array est vide, il faudra retourner `null`;
+
+@[Exercice 14, Dernier element dans un array ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh lastElementInArrayTest.php"})
+
+
+# Exercice 15
+
+Créer une fonction from scratch qui s'appelle **plusGrand()**. Elle prendra un argument de type array. Elle devra retourner le plus grand des élements présent dans l'array.
+Si l'array est vide, il faudra retourner null;
+
+@[Exercice 15, Plus petit dans un array ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh greaterInArrayTest.php"})
+
+# Exercice 16
 
 Créer une fonction from scratch qui s'appelle **plusPetit()**. Elle prendra un argument de type array. Elle devra retourner le plus petit des élements présent dans l'array.
 Si l'array est vide, il faudra retourner null;
 
-@[Exercice 13, Plus petit dans un array ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh smallerInArrayTest.php"})
+@[Exercice 16, Plus petit dans un array ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh smallerInArrayTest.php"})
