@@ -187,7 +187,9 @@ Les valeurs doivent être numérique et non au format String.
 
 # Exercice 24
 
-Aucune fonction a créer. Il suffit simplement d'inclure une librairie.
+Créer une fonction from scratch qui s'appelle **fonctionMagique()**. Le code de cette fonction se trouve dans une librairie externe.
 Il faut intégrer la librairie `./libraryToInclude.php`
+
+Il vous suffira pour completer cette exercice de retourner simplement la valeur produite par la fonction `fonctionDeMaLibrairie()`
 
 @[Exercice 24, inclure librairie ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh includeTest.php"})

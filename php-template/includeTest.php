@@ -2,7 +2,7 @@
     include 'empty.php';
     function test() {
 
-        if (fonctionDeMaLibrairie() === "Valeur retournée par ma librairie") {
+        if (fonctionMagique() === "Valeur retournée par ma librairie") {
             echo("TECHIO> success true \r\n");
         }
         else {
