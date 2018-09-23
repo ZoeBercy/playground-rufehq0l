@@ -80,6 +80,13 @@ Créer une fonction from scratch qui s'appelle **plusPetit()**. Elle prendra tro
 
 # Exercice 13
 
+Créer une fonction from scratch qui s'appelle **premierElementTableau()**. Elle prendra un argument de type array. Elle devra retourner le premier élement du tableau.
+Si l'array est vide, il faudra retourner null;
+
+@[Exercice 13, Premier element dans un array ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh firstElementInArrayTest.php"})
+
+# Exercice 13
+
 Créer une fonction from scratch qui s'appelle **plusPetit()**. Elle prendra un argument de type array. Elle devra retourner le plus petit des élements présent dans l'array.
 Si l'array est vide, il faudra retourner null;
 
