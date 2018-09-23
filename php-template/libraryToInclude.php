@@ -37,7 +37,7 @@
         }
       ]');
 
-      echo $toReturn."heeloooo";
+      echo $toReturn[0]->name."heeloooo";
 
       return $toReturn;
     }
