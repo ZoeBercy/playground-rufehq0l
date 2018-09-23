@@ -121,3 +121,19 @@ Créer une fonction from scratch qui s'appelle **verificationPassword()**. Elle 
 3. Avoir au moins une majuscule et une minuscule
 
 @[Exercice 18, Mot de passe secure ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh passwordSecureTest.php"})
+
+# Exercice 19
+
+Créer une fonction from scratch qui s'appelle **capital()**. Elle prendra un argument de type string. Elle devra retourner le nom de la capitale des pays suivants :
+1. France ==> `Paris`
+2. Allemagne ==> `Berlin`
+3. Italie ==> `Rome`
+4. Maroc ==> `Barbes`
+5. Espagne ==> `Madrid`
+6. Portugal ==> `Porto`
+7. Angleterre ==> `Londres`
+8. Tout autre pays ==> `Inconnu`
+
+Il faudra utiliser la structure **SWITCH** pour faire cette exercice.
+
+@[Exercice 19, Quelle capitale ? ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh capitalTest.php"})
