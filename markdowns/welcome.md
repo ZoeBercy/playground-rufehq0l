@@ -76,4 +76,11 @@ Créer une fonction from scratch qui s'appelle **plusPetit()**. Elle prendra deu
 
 Créer une fonction from scratch qui s'appelle **plusPetit()**. Elle prendra trois arguments de type int. Elle devra retourner le plus petit des trois.
 
-@[Exercice 13, Plus petit des trois ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh smallerWith3ArgumentsTest.php"})
+@[Exercice 12, Plus petit des trois ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh smallerWith3ArgumentsTest.php"})
+
+# Exercice 13
+
+Créer une fonction from scratch qui s'appelle **plusPetit()**. Elle prendra un argument de type array. Elle devra retourner le plus petit des élements présent dans l'array.
+Si l'array est vide, il faudra retourner null;
+
+@[Exercice 13, Plus petit dans un array ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh smallerInArrayTest.php"})
