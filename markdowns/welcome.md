@@ -187,9 +187,28 @@ Les valeurs doivent être numérique et non au format String.
 
 # Exercice 24
 
-Créer une fonction from scratch qui s'appelle **fonctionMagique()**. Le code de cette fonction se trouve dans une librairie externe.
+Créer une fonction from scratch qui s'appelle **fonctionMagique()**.
 Il faut intégrer la librairie `./libraryToInclude.php`
 
-Il vous suffira pour completer cette exercice de retourner simplement la valeur produite par la fonction `fonctionDeMaLibrairie()`
+Il vous suffira pour completer cette exercice de retourner simplement la valeur produite par la fonction `fonctionDeMaLibrairie()` qui se trouve justement dans la librairie incluse.
 
 @[Exercice 24, inclure librairie ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh includeTest.php"})
+
+# Exercice 25
+
+Créer une fonction from scratch qui s'appelle **getUtilisateurAutorise()**.
+Il faut intégrer la librairie `./libraryToInclude.php`
+
+La fonction retournera un array d'utilisateur autorisés.
+
+Il faut d'abord récupérer la liste de tous les utilisateurs.
+Cette liste se trouvera en appellant la fonction `getAllUtilisateurs()`
+
+Une fois tous les utilisateur récuperer, faire les opérations suivantes :
+1. Supprimer les utilisateurs bloqués.
+2. Supprimer les utilisateurs qui n'ont pas d'adresse email
+3. Supprimer les utilisateurs qui ont moins de 18 ans.
+
+Enfin retourner la nouvelle liste propre.
+
+@[Exercice 25, inclure librairie ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh userFilterTest.php"})
