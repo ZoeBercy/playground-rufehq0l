@@ -137,3 +137,26 @@ Créer une fonction from scratch qui s'appelle **capital()**. Elle prendra un ar
 Il faudra utiliser la structure **SWITCH** pour faire cette exercice.
 
 @[Exercice 19, Quelle capitale ? ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh capitalTest.php"})
+
+# Exercice 20
+
+Créer une fonction from scratch qui s'appelle **listHTML()**. Elle prendra deux arguments :
+1. Un string représentant le nom de la liste
+2. Un array représentant les élements de cette liste
+
+
+ Elle devra retourner une liste HTML. Chaque element de cette liste viendra du tableau passé en paramètre.
+
+Exemple :
+Paramètre :
+Titre : **Capitale**
+Liste : ["Paris", "Berlin", "Moscou"]
+Résultat : `<h3>Capitale</h3><ul><li>Paris</li><li>Berlin</li><li>Moscou</li></ul>`
+
+Comme vous pouvez le voir il n'y a **pas** d'espace ni de retour à la ligne entre les élements de la liste.
+Pas d'espace non plus entre le titre et la liste.
+
+Si le titre est null et vide il faut que la fonction retourne null.
+Si l'array est vide, il faut que la fonction retourne null.
+
+@[Exercice 20, Liste ]({"stubs": ["empty.php"], "command": "/bin/bash run.sh listTest.php"})
