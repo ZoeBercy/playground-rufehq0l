@@ -2,9 +2,6 @@
 
 Merci de faire les exercices dans l'ordre.
 
-
-
-
 # Exercice 1
 
 Faite en sorte que la fonction **HelloWorld** retourne exactement la valeur `Hello World!`
@@ -196,7 +193,7 @@ Il vous suffira pour completer cette exercice de retourner simplement la valeur 
 
 # Exercice 25
 
-Créer une fonction from scratch qui s'appelle **getUtilisateurAutorise()**.
+Créer une fonction from scratch qui s'appelle **getUtilisateursAutorises()**.
 Il faut intégrer la librairie `./libraryToInclude.php`
 
 La fonction retournera un array d'utilisateur autorisés.

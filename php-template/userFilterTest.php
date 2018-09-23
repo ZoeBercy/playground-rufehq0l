@@ -2,7 +2,7 @@
     include 'empty.php';
     function test() {
         $ok = false;
-        $usersToVerify = getAllUtilisateurs();
+        $usersToVerify = getUtilisateursAutorises();
         $ok = $usersToVerify[0]->name == "Nicolas Sarkozy";
         $ok = $ok && $usersToVerify[1]->name == "Francois Hollande";
         $ok = $ok && $usersToVerify[2]->name == "Disiz la peste";
