@@ -125,9 +125,9 @@ Créer une fonction from scratch qui s'appelle **capital()**. Elle prendra un ar
 1. France ==> `Paris`
 2. Allemagne ==> `Berlin`
 3. Italie ==> `Rome`
-4. Maroc ==> `Barbes`
+4. Maroc ==> `Rabat`
 5. Espagne ==> `Madrid`
-6. Portugal ==> `Porto`
+6. Portugal ==> `Lisbonne`
 7. Angleterre ==> `Londres`
 8. Tout autre pays ==> `Inconnu`
 
